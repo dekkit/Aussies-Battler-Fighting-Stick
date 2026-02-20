@@ -3,19 +3,22 @@ A 3D printable fighting stick that can comfortably mount both original MCA and t
 It includes a comfortable curved outter palm rest to enable you to play for longer, unlike other square edge designs.
 
 
-![Palm rest 65mm](https://github.com/user-attachments/assets/510775e6-7cc6-4f86-80d0-b2e763a338d1)
+<img width="833" height="576" alt="image" src="https://github.com/user-attachments/assets/66556ee9-9cbc-43c9-afda-c1d87031a38d" />
+
 
 **Button Layouts**
 
-14 different button layouts to choose from!   Select one that best suits your gaming style.
+14 different button layouts to choose from!   Select one that best suits your gaming style, be it Sf2, Mortal Kombat, neogeo or beat'em up configuration. 
 <img width="1501" height="668" alt="image" src="https://github.com/user-attachments/assets/6249694b-5eb5-40e1-9c1c-aa1c5f9e5e2b" />
 
-**ArtWork**
 
-Several retro control panel artworks to adapt into your 3D printed results. Be it to print in vinyl, or place under perspex and screw / glue into your case.
+**Artwork**
 
+Several retro control panel artworks to adapt into your 3D printed results. Either print in vinyl, or place under perspex and screw / glue into your case.    
 
 <img width="938" height="105" alt="image" src="https://github.com/user-attachments/assets/47e1389b-ccb7-44ae-9210-4099da46fbc4" />
+
+
 
 
 
@@ -59,4 +62,32 @@ n x 30mm arcade buttons (or equivalent note: holes are 30mm depending on layout)
 8 x M3 self tapping screws for joining the base  (~8mm in length - suggest to buy a box of varying lengths to allow for printing differences ). Alternatively you can use various glue
 4 x M3 long self tapping screws - these will be used to join the LEFT and RIGHT sections (min M3 x 25+mm length).  Alternative use a drill to enlargen holes if using larger size self taping screws or use glue to combine parts
 4 x rubber feet to avoid scratching tables etc.
+
+
+**Assembly**
+
+- Select your joystick mount (left side)
+- Select your button configuration (right side)
+- Use LONG M3 Self Tapping screws to join the parts together (you may also like to use glue to hold and seal gaps)
+- Add Joystick  (MCA joysticks are mounted from the underside, by inserting and then rotating the joystick to clip onto the provided shelves (see pic below). 
+- Add Buttons
+- Add USB Encoder
+- Add your Palm rest
+- Use M3 Self tapping screws (~6mm+) to affix the palm rests or base plate to the control panel.
+- Add artwork if required (See Arts folder).
+
+<img width="524" height="762" alt="image" src="https://github.com/user-attachments/assets/2097a501-4b07-4724-b19a-f34d70183ba0" />
+
+
+<img width="753" height="423" alt="image" src="https://github.com/user-attachments/assets/024927b7-b8c1-4f30-b126-15ec71dbae7f" />
+-join and screw parts to gether
+
+<img width="677" height="403" alt="image" src="https://github.com/user-attachments/assets/af0e85c6-be9c-44bc-abfa-4fd06ceabcf4" />
+
+- If mounting MCA, insert and rotate MCA to clip into shelves.  Then use mounting bolts to affix to case.
+
+<img width="1222" height="467" alt="image" src="https://github.com/user-attachments/assets/d8fc6e57-6329-4375-95d6-db1f9dccfce4" />
+
+- insert palm rest then screw from underside.  If not using palm rest, use base 4mm plates provided.
+<img width="616" height="378" alt="image" src="https://github.com/user-attachments/assets/082b61d8-cba7-496a-ae05-ebd070399864" />
 
