@@ -1,4 +1,4 @@
-# Aussies-Battler-Fighting-Stick
+# Aussie-Battler-Fighting-Stick
 A 3D printable fighting stick that can comfortably mount both original MCA and the newer MCA 3D joysticks.   It also includes a mount for the classic japanese JLF and clone arcade joysticks.
 It includes a comfortable curved outter palm rest to enable you to play for longer, unlike other square edge designs.
 
