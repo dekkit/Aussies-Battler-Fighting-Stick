@@ -46,22 +46,16 @@ Note: This design consumes a lot of filament but the end result is a very strong
 
 **Parts**
 
-1 x MCA, MCA 3d, JLF or clone arcade stick (standard holes)
-4 x Arcade joystick mounting bolts (or an equivalent from hardware shop) - these are easily purchased cheaply via ebay/ali.
-n x 30mm arcade buttons (or equivalent note: holes are 30mm depending on layout)
-2 x 24mm arcade buttons (for Coin / Start)
-1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino XBOX 360 for PC usb encoder https://github.com/dekkit/Arcade-to-Xbox360-PC-USB-Encoder/)
-~10 x M3 self tapping screws (varying in length - suggest to buy a box of varying lengths). Alternatively you can use  glue to affix parts.
-4 x rubber feet to avoid scratching tables etc.
-
-1 x JLF or clone arcade stick (standard holes)
-4 x Arcade joystick mounting bolts (or an equivalent from hardware shop) - these are easily purchased cheaply via ebay/ali.
-4 x 30mm arcade buttons (or equivalent note: holes are 30mm)
-2 x 24mm arcade buttons (for Coin / Start)
-1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino XBOX 360 for PC usb encoder https://github.com/dekkit/Arcade-to-Xbox360-PC-USB-Encoder/)
-8 x M3 self tapping screws for joining the base  (~8mm in length - suggest to buy a box of varying lengths to allow for printing differences ). Alternatively you can use various glue
-4 x M3 long self tapping screws - these will be used to join the LEFT and RIGHT sections (min M3 x 25+mm length).  Alternative use a drill to enlargen holes if using larger size self taping screws or use glue to combine parts
-4 x rubber feet to avoid scratching tables etc.
+- 1 x MCA, MCA 3d, JLF or clone arcade stick (standard holes)
+- 4 x Arcade joystick mounting bolts (or an equivalent from hardware shop) - these are easily purchased cheaply via ebay/ali.
+- n x 30mm arcade buttons (or equivalent note: holes are 30mm depending on layout)
+-2 x 24mm arcade buttons (for Coin / Start)
+- 1 x Encoder PCB (either purchase one from ebay/ali or make your own arduino based arcade encoder (ie plenty of cool projects like [Demonbite ](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB or see my other projects if you want to make a DIY arduino XBOX 360 for PC usb encoder https://github.com/dekkit/Arcade-to-Xbox360-PC-USB-Encoder/)
+- ~10 x M3 self tapping screws (varying in length - suggest to buy a box of varying lengths).
+  Alternatively you can use  glue to affix parts.
+- 4 x rubber feet to avoid scratching tables etc.
+- 8 x M3 self tapping screws for joining the base  (~8mm in length - suggest to buy a box of varying lengths to allow for printing differences ). Alternatively you can use various glue
+- 4 x M3 long self tapping screws - these will be used to join the LEFT and RIGHT sections (min M3 x 25+mm length).  Alternative use a drill to enlargen holes if using larger size self taping screws or use glue to combine parts
 
 
 **Assembly**
@@ -80,7 +74,8 @@ n x 30mm arcade buttons (or equivalent note: holes are 30mm depending on layout)
 
 
 <img width="753" height="423" alt="image" src="https://github.com/user-attachments/assets/024927b7-b8c1-4f30-b126-15ec71dbae7f" />
--join and screw parts to gether
+
+- Join and screw parts to gether
 
 <img width="677" height="403" alt="image" src="https://github.com/user-attachments/assets/af0e85c6-be9c-44bc-abfa-4fd06ceabcf4" />
 
@@ -88,6 +83,6 @@ n x 30mm arcade buttons (or equivalent note: holes are 30mm depending on layout)
 
 <img width="1222" height="467" alt="image" src="https://github.com/user-attachments/assets/d8fc6e57-6329-4375-95d6-db1f9dccfce4" />
 
-- insert palm rest then screw from underside.  If not using palm rest, use base 4mm plates provided.
+- Insert palm rest then screw from underside.  If not using palm rest, use base 4mm plates provided.
 <img width="616" height="378" alt="image" src="https://github.com/user-attachments/assets/082b61d8-cba7-496a-ae05-ebd070399864" />
 
