@@ -18,7 +18,7 @@ Several retro control panel artworks to adapt into your 3D printed results. Eith
 
 <img width="938" height="105" alt="image" src="https://github.com/user-attachments/assets/47e1389b-ccb7-44ae-9210-4099da46fbc4" />
 
-
+See: https://github.com/dekkit/Aussie-Battler-Fighting-Stick/tree/main/artwork
 
 
 
